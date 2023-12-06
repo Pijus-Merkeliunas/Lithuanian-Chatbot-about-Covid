@@ -1,0 +1,7 @@
+[DATABASE]
+User = FILL
+DB_NAME = melogamadb
+SERVER_PASSWORD = melogama
+DB_PASSWORD = melogama
+IP = FILL
+Port = FILL
